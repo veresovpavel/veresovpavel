@@ -2,8 +2,7 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ML-engineer+from+Russia" alt="Typing SVG" /></h3>
 
-I'am Veresov Pavel, currently working as engineer of NPP. Just finished studying Data Scince specialist on Yandex Practicum, lookig for 
-
+I'am Veresov Pavel, currently working as engineer of NPP. Just finished studying Data Scince specialist on Yandex Practicum.
 [![Gmail Badge](https://img.shields.io/badge/-veresovpavel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:veresovpavel@gmail.com)](mailto:veresovpavel@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/veresovpavel)
 
