@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Pavel</a>  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ML-engineer+from+Russia" alt="Typing SVG" /></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=235&lines=ML-engineer" alt="Typing SVG" /></h3>
 
 I'm Veresov Pavel, currently working as engineer of NPP. Just finished studying Data Scince specialist on Yandex Practicum.
 
