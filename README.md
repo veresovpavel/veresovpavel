@@ -2,7 +2,7 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=235&lines=ML-engineer" alt="Typing SVG" /></h3>
 
-I'm Veresov Pavel, currently working as engineer of NPP. Just finished studying Data Scince specialist on Yandex Practicum.
+I'm Veresov Pavel, currently working as engineer of NPP.
 
 -💻 Currently working at Atomenergoporekt
 
